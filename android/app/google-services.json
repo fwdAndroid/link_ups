@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270338453758",
+    "project_id": "linkup-d769d",
+    "storage_bucket": "linkup-d769d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270338453758:android:1e274a396c8a2add2bf5af",
+        "android_client_info": {
+          "package_name": "com.bluskies.linkUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270338453758-do6uomo0rta5ffgubn7j1eemhc6h7aoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluskies.linkUp",
+            "certificate_hash": "d83acc58cfa6b6d03a8bdaf196c47cf2317a297d"
+          }
+        },
+        {
+          "client_id": "270338453758-qt02o6ec4gsio9vcvrdke8tf29pq0q4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgM1TtXhN9IGXLQ6teJZpbsyc_6BpWlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270338453758-qt02o6ec4gsio9vcvrdke8tf29pq0q4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
